@@ -5,3 +5,7 @@
 /CLASS
 /.vs
 /lab1_ALG
+/ALG1_LAB1/.vs/ALG1_LAB1
+*.vcxproj
+*.filters
+*.user
